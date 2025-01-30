@@ -10,4 +10,4 @@ A simple calculator built with React.
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/react-calculator.git
+   git clone https://github.com/aasmaa01/react-calculator.git
